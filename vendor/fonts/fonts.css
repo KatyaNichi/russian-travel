@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'Inter';
+    src: url("Inter-Regular.woff");    
+    src: url("Inter-Regular.woff2");
+    }
+
+    @font-face {
+        src: url("Inter-Italic.woff");
+        src: url("Inter-Italic.woff2");
+        font-family: 'Inter';
+        font-style: italic;
+    }
+
+    @font-face {
+        src: url("Inter-Bold.woff");
+        src: url("Inter-Bold.woff2");
+        font-family: 'Inter';
+        font-weight: bold;
+    }
+
+    @font-face {
+        src: url("Inter-BoldItalic.woff");
+        src: url("Inter-BoldItalic.woff2");
+        font-family: 'Inter';
+        font-style: italic;
+        font-weight: bold;
+    } 

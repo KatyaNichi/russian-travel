@@ -1,0 +1,9 @@
+.header__lang-link {
+    color: #fff;
+    text-decoration: none;
+    padding-top: 1%;
+}
+.header__lang-link:first-of-type {
+    margin-right: 1.4%;
+    margin-left: auto;
+}
