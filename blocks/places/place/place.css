@@ -1,0 +1,24 @@
+.place {
+    display: grid;
+    grid-template-columns: 46.74% /*49.18%*/1fr;
+    grid-template-rows: /*24.83% 75.17%;*/ auto;
+    gap: 48px 40px; 
+    padding-bottom: 80px;    
+}
+
+.place:last-of-type {
+    padding-bottom: 0;
+}
+
+@media screen and (max-width: 1280px) and (min-width: 1024px ) {
+    .place {
+        grid-template-columns: 47.41% 1fr;
+    }
+}
+
+@media screen and (max-width: 1024px) and (min-width: 768px ) {
+    .place {
+        grid-template-columns: 47.22% 1fr;
+        padding-bottom: 72px;
+    }
+}
