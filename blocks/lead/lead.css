@@ -13,8 +13,8 @@
         width: 90.62%;
     }
 }
-@media screen and (max-width: 1024px) and (min-width: 768px) {
+@media screen and (max-width: 1024px) and (min-width: 320px) {
     .lead {
-        width: 100%;
+       width: 100%;
     }
 }

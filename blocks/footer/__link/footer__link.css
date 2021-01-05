@@ -7,9 +7,15 @@
     width: 100%;
 }
 
-footer__link:last-of-type {
-    padding-right: 0;
-}
+
 .footer__link:hover {
     opacity: .8;
+}
+
+@media screen and (max-width: 768px) {
+    .footer__link{
+        padding-bottom: 32px;
+        padding-right: 0;
+        display: block;
+    }
 }
