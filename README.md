@@ -5,4 +5,4 @@
 гриды, размеры и падинги в процентах, медиа запросы.
 Язык русский.
 
-https://github.com/KatyaNichi/russian-travel.git
+https://katyanichi.github.io/russian-travel/

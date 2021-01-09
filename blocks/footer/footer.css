@@ -2,6 +2,7 @@
     padding-top: 92px;
     padding-bottom: 24px;
     width: 92.5%;
+    max-width: 1184px;
     margin: 0 auto;
     display: flex;
     justify-content: space-between;
@@ -9,19 +10,19 @@
     line-height: 1.14;
 }
 
-@media screen and (max-width: 1280px) and (min-width: 1024px) {
+@media screen and (max-width: 1279px) and (min-width: 1024px) {
     .footer{
         width: 90.62%;
     }
 }
 
-@media screen and (max-width: 1024px) and (min-width: 768px) {
+@media screen and (max-width: 1023px) and (min-width: 768px) {
     .footer{
         width: 93.75%;
         padding-top: 88px;
     }
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
     .footer{
         padding-top: 64px;
         flex-direction: column;

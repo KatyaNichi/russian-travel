@@ -1,9 +1,9 @@
-.place__website {
+.website {
     align-self: end;
 }
 
-@media screen and (max-width: 768px) {
-    .place__website {
+@media screen and (max-width: 767px) {
+    .website {
         padding-left: 5%; 
     }
 }

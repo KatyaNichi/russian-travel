@@ -1,6 +1,7 @@
 .lead {
     padding-top: 56px;
     width: 76.8%;
+    max-width: 984px;
     text-align: center;
     margin: 0 auto;
     display: flex;
@@ -8,12 +9,12 @@
     align-items: center;
 }
 
-@media screen and (max-width: 1280px) and (min-width: 1024px) {
+@media screen and (max-width: 1279px) and (min-width: 1024px) {
     .lead {
         width: 90.62%;
     }
 }
-@media screen and (max-width: 1024px) and (min-width: 320px) {
+@media screen and (max-width: 1023px) {
     .lead {
        width: 100%;
     }
