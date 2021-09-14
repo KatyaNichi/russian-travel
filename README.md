@@ -1,8 +1,19 @@
-# Проект 3: Путешествие по России
+### Project 3: Travel across Russia
 
-### Проектная работа №3
-Работа направлена на освоение новых навыков. В ней я впервые верстала по макету  из Figma, использовала 
-гриды, размеры и падинги в процентах, медиа запросы.
-Язык русский.
+The adaptive single page website, developed with a Figma prototype.The webpage is optimized for screen sizes of 320px wide to infinity. 
+Russian language.
+#### **Stack**
+* HTML
+* CSS
 
+#### **Realization**
+* Grid Layout
+* Flexbox
+* Media queries
+* Relative units
+
+#### **Future improvements**
+* To add language switcher
+
+#### **URL**
 https://katyanichi.github.io/russian-travel/
